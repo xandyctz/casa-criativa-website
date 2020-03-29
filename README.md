@@ -2,12 +2,12 @@
     <img width="600" src="public/logo.png" />
 </h1>
 
-📌 Casa Criativa
+📌 Casa Criativa:
 ------------------
 
-<img src="public/home.PNG" alt="page-home">
-<img src="public/addidea.PNG" alt="page-new-idea">
-<img src="public/veridea.PNG" alt="page-view-idea">
+<img src="public/home.png" alt="page-home">
+<img src="public/addidea.png" alt="page-new-idea">
+<img src="public/veridea.png" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:
 ------------------
