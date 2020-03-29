@@ -12,6 +12,6 @@
 🔧 Tecnologias utilizadas:
 ------------------
 
-- HTML5
-- CSS3
-- JAVASCRIPT
+- [x] HTML5
+- [x] CSS3
+- [x] JAVASCRIPT
